@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../movie-recommendation/server"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
